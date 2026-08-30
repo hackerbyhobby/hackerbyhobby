@@ -42,6 +42,7 @@ I’m the founder of [VibeVersity](https://vibeversity.com), where I’m buildin
 
 I stopped measuring progress by how much code I could write by hand. In 2024, I completed a six-month, hands-on AI certification program at Arizona State University, where I trained models and used Python libraries to solve real-world problems. That foundation now helps me direct AI tools with purpose instead of engineering ephemeral primatives.
 
+## Good vibes
 Vibe coding gives me more time to focus on the parts of building that matter most: shaping useful ideas, solving real problems, sharing what I learn, and helping other people create something customers use every day. At the core of it all, everything starts with the end user, and we should all be customer obsessed.
 
 My favorite ASU AI project was the SMiShing & Scam Detector. Send it a suspicious text or screenshot, and it assesses whether the message is likely a scam while explaining the warning signs in plain language. I built it for people like my mom—because security tools are most valuable when they are understandable and easy to use.

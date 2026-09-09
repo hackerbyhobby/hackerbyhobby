@@ -70,6 +70,7 @@ An analysis of public congressional trading disclosures, sector activity, and ma
 
 ### AI, agents & development
 
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-2563EB?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -98,6 +99,9 @@ An analysis of public congressional trading disclosures, sector activity, and ma
 
 ![Security Strategy](https://img.shields.io/badge/Security_Strategy-1E3A5F?style=flat-square)
 ![Security Operations](https://img.shields.io/badge/Security_Operations-0F4C5C?style=flat-square)
+![SecOps](https://img.shields.io/badge/SecOps-0E7490?style=flat-square)
+![Blue Team](https://img.shields.io/badge/Blue_Team-1D4ED8?style=flat-square)
+![Trust & Safety](https://img.shields.io/badge/Trust_%26_Safety-7C3AED?style=flat-square)
 ![Red Team](https://img.shields.io/badge/Red_Team-991B1B?style=flat-square)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-B45309?style=flat-square)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-4C1D95?style=flat-square)

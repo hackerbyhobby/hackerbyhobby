@@ -40,7 +40,7 @@ I’m the founder of [VibeVersity](https://vibeversity.com), where I’m buildin
 
 ## What I stopped doing
 
-I stopped measuring progress by how much code I could write by hand. In 2024, I completed a six-month, hands-on AI certification program at Arizona State University, where I trained models and used Python libraries to solve real-world problems. That foundation now helps me direct AI tools with purpose instead of engineering ephemeral primatives.
+I stopped measuring progress by how much code I could write by hand. In 2024, I completed a six-month, hands-on AI certification program at Arizona State University, where I trained models and used Python libraries to solve real-world problems. Moving quickly required us to accelerate development with AI coding assistants. Since then, I’ve found that vibe coding with AI can match the output quality of some of the best human programmers at speeds we simply cannot match, though often at the cost of durability, scalability, and security. That foundation now helps me direct AI-assisted development with purpose instead of spending my time engineering ephemeral primitives. I’ll leave that to the principal engineers.
 
 ## Good vibes
 Vibe coding gives me more time to focus on the parts of building that matter most: shaping useful ideas, solving real problems, sharing what I learn, and helping other people create something customers use every day. At the core of it all, everything starts with the end user, and we should all be customer obsessed.

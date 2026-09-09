@@ -4,9 +4,6 @@
 
 I’m the founder of [VibeVersity](https://vibeversity.com), where I’m building a community of creators, entrepreneurs and AI enthusiasts that want to learn by doing, not bookmarking. It's a community for tech-curious people looking to level-up, without going back to school. My creative work sits at the intersection of AI engineering made simple, cybersecurity, and creator-first hands-on product building.
 
-**A little GitHub plot twist**\
-For much of my career, my development work lived in GitLab and other solutions. In 2026, I decided to move to GitHub. This activity graph tells the latest chapter, not the whole story. So, I'm enjoying seeing the green squares fill up. I hope yours also bring you joy.
-
 <p>
   <a href="https://www.instagram.com/aibellini/"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=%232563EB" alt="Instagram" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@deliver.ai"><img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%232563EB" alt="TikTok" height="32"></a>&nbsp;&nbsp;&nbsp;
@@ -146,3 +143,6 @@ The best place to learn more or get in touch is [vibeversity.com](https://vibeve
   <a href="https://www.linkedin.com/in/hackerbyhobby/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%232563EB" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hackerbyhobby"><img src="https://api.iconify.design/simple-icons:github.svg?color=%232563EB" alt="GitHub" height="32"></a>
 </p>
+
+**A little GitHub plot twist**\
+For much of my career, my development work lived in GitLab and other solutions. In 2026, I decided to move to GitHub. This activity graph tells the latest chapter, not the whole story. So, I'm enjoying seeing the green squares fill up. I hope yours also bring you joy.

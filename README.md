@@ -97,8 +97,6 @@ An analysis of public congressional trading disclosures, sector activity, and ma
 
 ### Cybersecurity
 
-![Security Strategy](https://img.shields.io/badge/Security_Strategy-1E3A5F?style=flat-square)
-![Security Operations](https://img.shields.io/badge/Security_Operations-0F4C5C?style=flat-square)
 ![SecOps](https://img.shields.io/badge/SecOps-0E7490?style=flat-square)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-1D4ED8?style=flat-square)
 ![Trust & Safety](https://img.shields.io/badge/Trust_%26_Safety-7C3AED?style=flat-square)
@@ -107,17 +105,18 @@ An analysis of public congressional trading disclosures, sector activity, and ma
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-4C1D95?style=flat-square)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-7F1D1D?style=flat-square)
 ![Application Security](https://img.shields.io/badge/Application_Security-065F46?style=flat-square)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-374151?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 - **Leadership and operations:** Field CISO, security strategy, global security operations, detection and response engineering, security logging, trust and safety, and operational resilience
-- **Offensive security:** red teaming, penetration testing, application and API security, static source-code analysis, bug bounty, threat hunting, and social-engineering testing
+- **Offensive security:** red teaming, penetration testing, application and API security, static source-code analysis, threat hunting, and social-engineering testing
 - **Threat management:** cyber threat intelligence, incident response, emerging-threat and vulnerability programs, security testing, investigations, and technical audit coordination
 - **Governance and measurement:** security program design, PCI and regulatory compliance, KPIs, KRIs, capability metrics, and risk-informed prioritization
 
 ### Leadership, advising & education
 
 ![Field CISO](https://img.shields.io/badge/Field_CISO-1D4ED8?style=flat-square)
+![Security Strategy](https://img.shields.io/badge/Security_Strategy-1E3A5F?style=flat-square)
+![Community Leader](https://img.shields.io/badge/Community_Leader-4338CA?style=flat-square)
 ![Startup Advisor](https://img.shields.io/badge/Startup_Advisor-7C3AED?style=flat-square)
 ![Strategic Partnerships](https://img.shields.io/badge/Strategic_Partnerships-0F766E?style=flat-square)
 ![Program Leadership](https://img.shields.io/badge/Program_Leadership-92400E?style=flat-square)
